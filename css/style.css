@@ -145,15 +145,20 @@ img {
 }
 
 @media screen and (max-width:480px) {
-    .row{
+    .row {
         flex-wrap: wrap;
     }
 
-    .lesson .col{
-        width: 100%;
-    }
+    .lessons .col
+    {
+    width: 100%;
+}
 
-    .why-us{
-        background-color:rgb(34, 34, 34);
-    }
+     .why-us {
+    background-color: rgb(34, 34, 34);
+}
+.steps .col {
+    width: 100%;
+}
+
 }
