@@ -148,9 +148,11 @@ img {
     .row{
         flex-wrap: wrap;
     }
-    .col{
+
+    .lesson .col{
         width: 100%;
     }
+
     .why-us{
         background-color:rgb(34, 34, 34);
     }
